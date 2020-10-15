@@ -28,6 +28,10 @@ and push pairing button on back of LEGO Mario.
 
 Only tested on MacOS 
 
+# Disclaimer 2
+
+This project is only for fun and test the ideas of what I saw around about how to extract the information from Lego Mario. I'm working with other people in proper implementation using .net/windows [sharpbrick/powered-up](https://github.com/sharpbrick/powered-up)
+
 
 # Credits
 
